@@ -3,9 +3,17 @@
         <title>我的全新 Hugo 网站</title>
         <link>https://kezhenghui101.github.io/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 05 Sep 2024 01:25:57 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 05 Sep 2024 02:40:54 &#43;0800</lastBuildDate>
             <atom:link href="https://kezhenghui101.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Second</title>
+    <link>https://kezhenghui101.github.io/posts/second/</link>
+    <pubDate>Thu, 05 Sep 2024 02:40:54 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://kezhenghui101.github.io/posts/second/</guid>
+    <description><![CDATA[测试 public文件夹与GitHub建立连接即可 每次新增加文章后，hugo &ndash;theme=LoveIt &ndash;baseURL=&ldquo;https://kezhenghui101.github.io/" -D 然后 git add commit push一条龙]]></description>
+</item>
+<item>
     <title>First_post</title>
     <link>https://kezhenghui101.github.io/posts/first_post/</link>
     <pubDate>Thu, 05 Sep 2024 01:25:57 &#43;0800</pubDate>

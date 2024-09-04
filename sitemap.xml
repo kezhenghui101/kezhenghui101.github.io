@@ -2,8 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://kezhenghui101.github.io/posts/</loc><lastmod>2024-09-05T02:40:54&#43;08:00</lastmod></url><url>
+            <loc>https://kezhenghui101.github.io/posts/second/</loc><lastmod>2024-09-05T02:40:54&#43;08:00</lastmod></url><url>
+            <loc>https://kezhenghui101.github.io/</loc><lastmod>2024-09-05T02:40:54&#43;08:00</lastmod></url><url>
             <loc>https://kezhenghui101.github.io/posts/first_post/</loc><lastmod>2024-09-05T01:25:57&#43;08:00</lastmod></url><url>
-            <loc>https://kezhenghui101.github.io/posts/</loc><lastmod>2024-09-05T01:25:57&#43;08:00</lastmod></url><url>
-            <loc>https://kezhenghui101.github.io/</loc><lastmod>2024-09-05T01:25:57&#43;08:00</lastmod></url><url>
             <loc>https://kezhenghui101.github.io/categories/</loc></url><url>
             <loc>https://kezhenghui101.github.io/tags/</loc></url></urlset>
