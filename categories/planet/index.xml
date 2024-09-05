@@ -1,18 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - 我的世界</title>
-        <link>https://kezhenghui101.github.io/posts/</link>
-        <description>All Posts | 我的世界</description>
+        <title>Planet - Category - 我的世界</title>
+        <link>https://kezhenghui101.github.io/categories/planet/</link>
+        <description>Planet - Category - 我的世界</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kezhenghui101@outlook.com (sky)</managingEditor>
-            <webMaster>kezhenghui101@outlook.com (sky)</webMaster><lastBuildDate>Thu, 05 Sep 2024 02:40:54 &#43;0800</lastBuildDate><atom:link href="https://kezhenghui101.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Mac配件</title>
-    <link>https://kezhenghui101.github.io/posts/mac%E9%85%8D%E4%BB%B6/</link>
-    <pubDate>Thu, 05 Sep 2024 02:40:54 &#43;0800</pubDate>
-    <author>sky</author>
-    <guid>https://kezhenghui101.github.io/posts/mac%E9%85%8D%E4%BB%B6/</guid>
-    <description><![CDATA[清洁工具&ndash;20合一 鼠标&ndash;罗技GPW 3代 屏幕清洁工具 键盘膜 带快捷键说明 mac鼠标设置工具：将触控板和鼠标滚动方向分隔开]]></description>
-</item>
-<item>
+            <webMaster>kezhenghui101@outlook.com (sky)</webMaster><lastBuildDate>Thu, 05 Sep 2024 01:25:57 &#43;0800</lastBuildDate><atom:link href="https://kezhenghui101.github.io/categories/planet/" rel="self" type="application/rss+xml" /><item>
     <title>First_post</title>
     <link>https://kezhenghui101.github.io/posts/first_post/</link>
     <pubDate>Thu, 05 Sep 2024 01:25:57 &#43;0800</pubDate>

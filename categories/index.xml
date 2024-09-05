@@ -4,5 +4,21 @@
         <link>https://kezhenghui101.github.io/categories/</link>
         <description>Categories - Category - 我的世界</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kezhenghui101@outlook.com (sky)</managingEditor>
-            <webMaster>kezhenghui101@outlook.com (sky)</webMaster><atom:link href="https://kezhenghui101.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>kezhenghui101@outlook.com (sky)</webMaster><lastBuildDate>Thu, 05 Sep 2024 02:40:54 &#43;0800</lastBuildDate><atom:link href="https://kezhenghui101.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Shop</title>
+    <link>https://kezhenghui101.github.io/categories/shop/</link>
+    <pubDate>Thu, 05 Sep 2024 02:40:54 &#43;0800</pubDate>
+    <author>sky</author>
+    <guid>https://kezhenghui101.github.io/categories/shop/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Planet</title>
+    <link>https://kezhenghui101.github.io/categories/planet/</link>
+    <pubDate>Thu, 05 Sep 2024 01:25:57 &#43;0800</pubDate>
+    <author>sky</author>
+    <guid>https://kezhenghui101.github.io/categories/planet/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
