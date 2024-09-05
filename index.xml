@@ -1,25 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>我的全新 Hugo 网站</title>
+        <title>我的世界</title>
         <link>https://kezhenghui101.github.io/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 05 Sep 2024 02:40:54 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kezhenghui101@outlook.com (sky)</managingEditor>
+            <webMaster>kezhenghui101@outlook.com (sky)</webMaster>
             <atom:link href="https://kezhenghui101.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Second</title>
-    <link>https://kezhenghui101.github.io/posts/second/</link>
-    <pubDate>Thu, 05 Sep 2024 02:40:54 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://kezhenghui101.github.io/posts/second/</guid>
-    <description><![CDATA[测试 public文件夹与GitHub建立连接即可 每次新增加文章后，hugo &ndash;theme=LoveIt &ndash;baseURL=&ldquo;https://kezhenghui101.github.io/" -D 然后 git add commit push一条龙]]></description>
-</item>
-<item>
-    <title>First_post</title>
-    <link>https://kezhenghui101.github.io/posts/first_post/</link>
-    <pubDate>Thu, 05 Sep 2024 01:25:57 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://kezhenghui101.github.io/posts/first_post/</guid>
-    <description><![CDATA[first blog 把模版部署在网站上 hugo &ndash;theme=LoveIt &ndash;baseURL=&ldquo;https://kezhenghui101.github.io/" -D 生成public文件夹，然后把文件夹push至GitHub cd public git init git add . git commit -m &ldquo;first&rdquo; git remote add origin git@github.com:kezhenghui101/kezhenghui101.github.io.git git push -u origin main ssh-keygen -t rsa -C &ldquo;kezhenghui101@outlook.com&rdquo;]]></description>
-</item>
-</channel>
+        </channel>
 </rss>
