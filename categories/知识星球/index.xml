@@ -1,16 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>知识星球 - Category - 我的世界</title>
+        <title>知识星球 - 分类 - 夜幕降临</title>
         <link>https://kezhenghui101.github.io/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/</link>
-        <description>知识星球 - Category - 我的世界</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kezhenghui101@outlook.com (sky)</managingEditor>
-            <webMaster>kezhenghui101@outlook.com (sky)</webMaster><lastBuildDate>Thu, 05 Sep 2024 01:25:57 &#43;0800</lastBuildDate><atom:link href="https://kezhenghui101.github.io/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/" rel="self" type="application/rss+xml" /><item>
+        <description>知识星球 - 分类 - 夜幕降临</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>kezhenghui101@outlook.com (sky)</managingEditor>
+            <webMaster>kezhenghui101@outlook.com (sky)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 08 Sep 2024 03:40:41 &#43;0800</lastBuildDate><atom:link href="https://kezhenghui101.github.io/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/" rel="self" type="application/rss+xml" /><item>
+    <title>网站搭建待办</title>
+    <link>https://kezhenghui101.github.io/posts/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E5%BE%85%E5%8A%9E/</link>
+    <pubDate>Sun, 08 Sep 2024 03:40:41 &#43;0800</pubDate>
+    <author>sky</author>
+    <guid>https://kezhenghui101.github.io/posts/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E5%BE%85%E5%8A%9E/</guid>
+    <description><![CDATA[网站未搭建的部分，待优化的方向，努力建设小破站！！！]]></description>
+</item>
+<item>
     <title>First_post</title>
     <link>https://kezhenghui101.github.io/posts/first_post/</link>
     <pubDate>Thu, 05 Sep 2024 01:25:57 &#43;0800</pubDate>
     <author>sky</author>
     <guid>https://kezhenghui101.github.io/posts/first_post/</guid>
-    <description><![CDATA[Hugo+Github Pages 把模版部署在网站上 hugo &ndash;theme=LoveIt &ndash;baseURL=&ldquo;https://kezhenghui101.github.io/" -D 生成public文件夹，然后把文件夹push至GitHub cd public git init git add . git commit -m &ldquo;first&rdquo; git remote add origin git@github.com:kezhenghui101/kezhenghui101.github.io.git git push -u origin main ssh-keygen -t rsa -C &ldquo;kezhenghui101@outlook.com&rdquo;]]></description>
+    <description><![CDATA[记录Hugo+Github Pages 搭建网站的过程]]></description>
 </item>
 </channel>
 </rss>

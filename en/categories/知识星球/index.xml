@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>知识星球 - Category - 夜幕降临</title>
+        <link>https://kezhenghui101.github.io/en/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/</link>
+        <description>知识星球 - Category - 夜幕降临</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kezhenghui101@outlook.com (sky)</managingEditor>
+            <webMaster>kezhenghui101@outlook.com (sky)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 05 Sep 2024 01:25:57 &#43;0800</lastBuildDate><atom:link href="https://kezhenghui101.github.io/en/categories/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://kezhenghui101.github.io/en/posts/first_post/</link>
+    <pubDate>Thu, 05 Sep 2024 01:25:57 &#43;0800</pubDate>
+    <author>sky</author>
+    <guid>https://kezhenghui101.github.io/en/posts/first_post/</guid>
+    <description><![CDATA[Hugo+Github Pages 把模版部署在网站上 hugo &ndash;theme=LoveIt &ndash;baseURL=&ldquo;https://kezhenghui101.github.io/" -D 生成public文件夹，然后把文件夹push至GitHub cd public git init git add . git commit -m &ldquo;first&rdquo; git remote add origin git@github.com:kezhenghui101/kezhenghui101.github.io.git git push -u origin main ssh-keygen -t rsa -C &ldquo;kezhenghui101@outlook.com&rdquo;]]></description>
+</item>
+</channel>
+</rss>

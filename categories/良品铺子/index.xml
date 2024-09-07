@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>良品铺子 - Category - 我的世界</title>
+        <title>良品铺子 - 分类 - 夜幕降临</title>
         <link>https://kezhenghui101.github.io/categories/%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90/</link>
-        <description>良品铺子 - Category - 我的世界</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kezhenghui101@outlook.com (sky)</managingEditor>
-            <webMaster>kezhenghui101@outlook.com (sky)</webMaster><lastBuildDate>Thu, 05 Sep 2024 02:40:54 &#43;0800</lastBuildDate><atom:link href="https://kezhenghui101.github.io/categories/%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90/" rel="self" type="application/rss+xml" /><item>
+        <description>良品铺子 - 分类 - 夜幕降临</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>kezhenghui101@outlook.com (sky)</managingEditor>
+            <webMaster>kezhenghui101@outlook.com (sky)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 05 Sep 2024 02:40:54 &#43;0800</lastBuildDate><atom:link href="https://kezhenghui101.github.io/categories/%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90/" rel="self" type="application/rss+xml" /><item>
     <title>Mac配件</title>
     <link>https://kezhenghui101.github.io/posts/mac%E9%85%8D%E4%BB%B6/</link>
     <pubDate>Thu, 05 Sep 2024 02:40:54 &#43;0800</pubDate>
     <author>sky</author>
     <guid>https://kezhenghui101.github.io/posts/mac%E9%85%8D%E4%BB%B6/</guid>
-    <description><![CDATA[配件 清洁工具&ndash;20合一 鼠标&ndash;罗技GPW 1代 屏幕清洁工具 键盘膜 带快捷键说明 软件 数码荔枝官网购买更便宜 mac鼠标设置工具]]></description>
+    <description><![CDATA[介绍MacBook上好用的软件和配件]]></description>
 </item>
 </channel>
 </rss>
