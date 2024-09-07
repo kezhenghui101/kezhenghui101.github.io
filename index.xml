@@ -12,7 +12,7 @@
     <pubDate>Thu, 05 Sep 2024 02:40:54 &#43;0800</pubDate>
     <author>sky</author>
     <guid>https://kezhenghui101.github.io/posts/mac%E9%85%8D%E4%BB%B6/</guid>
-    <description><![CDATA[清洁工具&ndash;20合一 鼠标&ndash;罗技GPW 3代 屏幕清洁工具 键盘膜 带快捷键说明 mac鼠标设置工具：将触控板和鼠标滚动方向分隔开]]></description>
+    <description><![CDATA[配件 清洁工具&ndash;20合一 鼠标&ndash;罗技GPW 1代 屏幕清洁工具 键盘膜 带快捷键说明 软件 数码荔枝官网购买更便宜 mac鼠标设置工具]]></description>
 </item>
 <item>
     <title>First_post</title>
@@ -20,7 +20,7 @@
     <pubDate>Thu, 05 Sep 2024 01:25:57 &#43;0800</pubDate>
     <author>sky</author>
     <guid>https://kezhenghui101.github.io/posts/first_post/</guid>
-    <description><![CDATA[first blog 把模版部署在网站上 hugo &ndash;theme=LoveIt &ndash;baseURL=&ldquo;https://kezhenghui101.github.io/" -D 生成public文件夹，然后把文件夹push至GitHub cd public git init git add . git commit -m &ldquo;first&rdquo; git remote add origin git@github.com:kezhenghui101/kezhenghui101.github.io.git git push -u origin main ssh-keygen -t rsa -C &ldquo;kezhenghui101@outlook.com&rdquo;]]></description>
+    <description><![CDATA[Hugo+Github Pages 把模版部署在网站上 hugo &ndash;theme=LoveIt &ndash;baseURL=&ldquo;https://kezhenghui101.github.io/" -D 生成public文件夹，然后把文件夹push至GitHub cd public git init git add . git commit -m &ldquo;first&rdquo; git remote add origin git@github.com:kezhenghui101/kezhenghui101.github.io.git git push -u origin main ssh-keygen -t rsa -C &ldquo;kezhenghui101@outlook.com&rdquo;]]></description>
 </item>
 </channel>
 </rss>
