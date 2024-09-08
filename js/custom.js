@@ -73,23 +73,5 @@ jQuery(document).ready(function($) {
 });
 
 
-/* 离开当前页面时修改网页标题，回到当前页面时恢复原来标题 */
-window.onload = function() {
-	var OriginTitile = document.title;
-	var titleTime;
-	document.addEventListener('visibilitychange', function() {
-	  if(document.hidden) {
-		$('[rel="icon"]').attr('href', "/go.png");
-		$('[rel="shortcut icon"]').attr('href', "/go.svg");
-		document.title = '万里晴空';
-		clearTimeout(titleTime);
-	  } else {
-		$('[rel="icon"]').attr('href', "/come.svg");
-		$('[rel="shortcut icon"]').attr('href', "/come.png");
-		document.title = '夜幕降临';
-		titleTime = setTimeout(function() {
-		  document.title = OriginTitile;
-		}, 2000);
-	  }
-	});
-  }
+
+
